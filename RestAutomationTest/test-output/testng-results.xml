@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4902" started-at="2018-12-09T17:56:44Z" finished-at="2018-12-09T17:56:49Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4902" started-at="2018-12-09T17:56:44Z" finished-at="2018-12-09T17:56:49Z">
+      <class name="testClasses.UnitTestClass">
+        <test-method status="PASS" signature="getAdvice()[pri:0, instance:testClasses.UnitTestClass@239963d8]" name="getAdvice" duration-ms="4855" started-at="2018-12-09T17:56:44Z" finished-at="2018-12-09T17:56:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAdvice -->
+      </class> <!-- testClasses.UnitTestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
