@@ -1,2 +1,2 @@
-# RestAPITest
-RestAPIAutomationProject
+# Automation Demo
+RestAPIAutomationProject&SeleniumProject
