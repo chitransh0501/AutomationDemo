@@ -41,7 +41,7 @@ public class UnitTestClass {
 
 	@Test()
 	public void launchFacebook() throws Exception {
-		System.setProperty("webdriver.chrome.driver", "F:/seleniumAlok/chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver",  System.getProperty("user.dir") + "/chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
 		driver.get("http://www.facebook.com");
 		driver.manage().window().maximize();
